@@ -2,6 +2,4 @@
 <br>
 <img width="1440" alt="" src="https://user-images.githubusercontent.com/80835593/208568876-5ed748b0-4ce8-48a1-aed5-cd9ef101ee7b.png">
 <img width="1440" alt="" src="https://user-images.githubusercontent.com/80835593/208569143-2488780c-db74-4e29-91fd-a11d14283eaf.png">
-<img width="1440" alt="" src="https://user-images.githubusercontent.com/80835593/208569642-890681e4-1605-46c4-b239-6ddfe32986e3.png">
-<img width="1552" alt="Captura de Pantalla 2022-12-20 a la(s) 11 35 22" src="https://user-images.githubusercontent.com/80835593/208691743-c16b335b-c83a-4cc4-9651-ee90a561e8ce.png">
-<img width="1440" alt="Captura de Pantalla 2022-12-20 a la(s) 11 37 46" src="https://user-images.githubusercontent.com/80835593/208692232-62ae4e74-22a1-4225-b7a7-dd81d2425572.png">
+<img width="1440" alt="" src="https://user-images.githubusercontent.com/80835593/208692232-62ae4e74-22a1-4225-b7a7-dd81d2425572.png">
